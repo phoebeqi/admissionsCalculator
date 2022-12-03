@@ -4,8 +4,7 @@ My project is a webpage where users can calculate their chances of being accepte
 
 My inspiration for this project originated from my own college admissions process last year, where I frantically researched the most important factors that admissions officers look into when reviewing college applications. 
 
-This documentation is to be a user’s manual for your project. Though the structure of your documentation is entirely up to you, it should be incredibly clear to the staff how and where, if applicable, to compile, configure, and use your project. Your documentation should be at least several paragraphs in length. It should not be necessary for us to contact you with questions regarding your project after its submission. Hold our hand with this documentation; be sure to answer in your documentation any questions that you think we might have while testing your work.
-
+XXX Unfinished
 
 
 Contact
@@ -15,4 +14,4 @@ Contact
 
 
 Acknowledgments
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+~Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
