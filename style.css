@@ -1,36 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="main.js"></script>
-
-    <title>Index</title>
-</head>
-<body>
-    <ul>
-        <li><a href="home.html">Home</a></li>
-        <li><a href="quiz.html">Quiz</a></li>
-        <li><a href="contact.html">Contact</a></li>
-        <li><a href="about.html">About</a></li>
-    </ul>
-
-    <p> Welcome to  </p>
-    <p> para2 </p>
-      
-    <script src="main.js"></script>
-    
-</body>
-</html>
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:#751a2b;
     font-family: "Gill Sans", sans-serif;
 }
 
@@ -40,7 +13,7 @@ li {
   
 li a {
     display: block;
-    color: b;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -127,6 +100,15 @@ button, input[type="submit"] {
     padding-right: 15px;
 }
 
+.redcontainer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    color:#751a2b
+}
+
 input[type="text"] {
     line-height: 1.8;
     width: 25%;
@@ -142,9 +124,4 @@ input[type="text"]:hover {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-  }
-
-  p::before {
-    content: "\A";
-    white-space: pre;
   }
