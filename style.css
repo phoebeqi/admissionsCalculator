@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
 
     <title>Index</title>
 </head>
@@ -16,17 +17,46 @@
         <li><a href="about.html">About</a></li>
     </ul>
 
-    <p class="black increaseFont"> para1 </p>
-    <p class="green"> para2 </p>
+    <p> Welcome to  </p>
+    <p> para2 </p>
       
     <script src="main.js"></script>
     
 </body>
 </html>
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family: "Gill Sans", sans-serif;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 28px;
+}
+  
+li a:hover {
+    background-color: #212529;
+    color: white;
+}
+
 body {
     background-color: #fff;
     color: #212529;
+    font-family: "Gill Sans", sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -54,13 +84,27 @@ body {
 }
 
 .section:hover {
-    background-color: #f5f5f5;
+    background-color: #white;
     transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Gill Sans", sans-serif;
     font-size: 48px;
+}
+
+h2 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+}
+
+.rightalign {
+    text-align: justify;
 }
 
 button, input[type="submit"] {
@@ -76,6 +120,12 @@ button, input[type="submit"] {
     vertical-align: middle;
 }
 
+.indexcontainer {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 15px;
+}
 
 input[type="text"] {
     line-height: 1.8;
@@ -86,3 +136,15 @@ input[type="text"]:hover {
     background-color: #f5f5f5;
     transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  p::before {
+    content: "\A";
+    white-space: pre;
+  }
