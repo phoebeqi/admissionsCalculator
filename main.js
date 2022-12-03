@@ -101,14 +101,3 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
-
-
-/*    for (let i = 0; i < corrects.length; i++) {
-    corrects[i].addEventListener('click', function() {
-
-        // Set background color to green
-        corrects[i].style.backgroundColor = 'Green';
-        corrects[i].parentElement.querySelector('.feedback').innerHTML = 'Correct!';
-    });
-}
-*/
