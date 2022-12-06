@@ -6,7 +6,19 @@ My project is a webpage where users can calculate their chances of being accepte
 
 My inspiration for this project originated from my own college admissions process last year, where I frantically researched the most important factors that admissions officers look into when reviewing college applications.
 
-XXX Unfinished
+Video link: 
+
+XXXXXXXXXXXXXX
+
+Installation:
+
+To open the website, utilize your IDE by doing the following:
+
+https://github.com/phoebeqi/admissionsCalculator.git
+
+cd C:Users\admissionsCalculator
+
+start index.html
 
 Contact:
 
@@ -15,5 +27,7 @@ Contact:
 - Project Link: https://github.com/phoebeqi/admissionsCalculator.git
 
 Acknowledgments:
+
+XXXXXXXXXXXXXX
 
 https://www.w3schools.com/
