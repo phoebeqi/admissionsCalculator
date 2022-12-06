@@ -8,9 +8,11 @@ My inspiration for this project originated from my own college admissions proces
 
 This project is implemented with HTML, JS, and CSS files. 
 
+
 Video link: 
 
 XXXXXXXXXXXXXX
+
 
 Installation:
 
@@ -28,11 +30,13 @@ cd C:Users\admissionsCalculator
 
 start index.html
 
+
 Contact:
 
 - Name: Phoebe Zhang
 - Email: phoebezhang@college.harvard.edu
 - Project Link: https://github.com/phoebeqi/admissionsCalculator.git
+
 
 Acknowledgments:
 
