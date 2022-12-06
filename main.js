@@ -76,3 +76,17 @@ document.addEventListener("DOMContentLoaded", function () {
         "This answer is worth 5 points!";
     });
   }
+
+  // Change background colors
+  document.querySelector("#check").addEventListener("click", function () {
+    let input = document.querySelector("input");
+    if (input.value === "2") {
+      z;
+      input.style.backgroundColor = "green";
+      input.parentElement.querySelector(".feedback").innerHTML = "Correct!";
+    } else {
+      input.style.backgroundColor = "red";
+      input.parentElement.querySelector(".feedback").innerHTML = "Incorrect";
+    }
+  });
+});

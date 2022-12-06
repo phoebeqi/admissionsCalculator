@@ -24,14 +24,6 @@ For the CSS file:
 
 - style.css
 
-This CSS file is written to format the visuals of the HTML websites. ul, li, li a, and li a:hover all contribute to creating the horizontal navigation bar (such as formatting the background color changes as needed when the user hovers over a link to another website). body, h1, h2, h3, .container, .header, .section, .section:hover, .indexcontainer, and .redcontainer all contribute to the format of the main body text, the different headings used in the webpages, and most of the text in the webpage (consistent font and size). 
+This CSS file is written to format the visuals of the HTML websites. ul, li, li a, and li a:hover all contribute to creating the horizontal navigation bar (such as formatting the background color changes as needed when the user hovers over a link to another website). body, h1, h2, h3, .container, .header, .section, .section:hover, .indexcontainer, and .redcontainer all contribute to the format of the main body text, the different headings used in the webpages, and most of the text in the webpage (consistent font and size). input[type="text"], input[type="text"]:hover, and button, input[type="submit"], all contribute to the formatting related to helping the user interact with the webpage (background color change, transition looks, etc.).
 
-input[type="text"], input[type="text"]:hover, button, input[type="submit"], 
-
-, all contribute to the formatting related to helping the user interact with the webpage ()
-
-
-
-
-
-discusses, technically, how you implemented your project and why you made the design decisions you did. Your design document should be at least several paragraphs in length. Whereas your documentation is meant to be a user’s manual, consider your design document your opportunity to give the staff a technical tour of your project underneath its hood.
+Overall, these files work in synchrony to provide an informative an interactive experience for the user of my program
