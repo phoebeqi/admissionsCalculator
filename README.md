@@ -49,4 +49,4 @@ https://javascript.info/
 
 https://codewithmosh.com/courses?campaignid=10559564049&adgroupid=103987184763&adid=502317391900&gclid=Cj0KCQiAyracBhDoARIsACGFcS6R6or3dFEUL3ZzttwKdXTag9EWDxe3PJkzjzrgSx6qUuovE8SsBIQaAmVcEALw_wcB
 
-Finally thank you to my wonderful TF, Michael Hu, who has supported me throughout the entire course of CS50!
+Finally a super big thank you to my wonderful TF, Michael Hu, who has supported me throughout the entire course of CS50!
