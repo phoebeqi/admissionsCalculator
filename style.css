@@ -37,6 +37,21 @@ body {
     text-align: left;
 }
 
+h1 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+}
+
 .container {
     margin-left: auto;
     margin-right: auto;
@@ -59,38 +74,6 @@ body {
 .section:hover {
     background-color: #white;
     transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
-}
-
-h1 {
-    font-family: "Gill Sans", sans-serif;
-    font-size: 48px;
-}
-
-h2 {
-    font-family: "Gill Sans", sans-serif;
-    font-size: 30px;
-}
-
-h3 {
-    font-family: "Gill Sans", sans-serif;
-    font-size: 18px;
-}
-
-.rightalign {
-    text-align: justify;
-}
-
-button, input[type="submit"] {
-    background-color: #f7dfe3;
-    border: 1px solid transparent;
-    border-radius: 0.25rem;
-    font-size: 0.95rem;
-    font-weight: 400;
-    line-height: 1.5;
-    padding: 0.375rem 0.75rem;
-    text-align: center;
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    vertical-align: middle;
 }
 
 .indexcontainer {
@@ -118,6 +101,24 @@ input[type="text"]:hover {
     background-color: #f5f5f5;
     transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
 }
+
+button, input[type="submit"] {
+    background-color: #f7dfe3;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0.375rem 0.75rem;
+    text-align: center;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    vertical-align: middle;
+}
+
+.rightalign {
+    text-align: justify;
+}
+
 
 .center {
     display: block;
