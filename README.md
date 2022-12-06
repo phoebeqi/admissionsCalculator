@@ -11,8 +11,7 @@ This project is implemented with HTML, JS, and CSS files. Although this calculat
 
 Video link: 
 
-XXXXXXXXXXXXXX
-
+https://youtu.be/7oDtIWaN8gk
 
 Installation:
 
